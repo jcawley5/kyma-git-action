@@ -15,7 +15,7 @@
     "prom-client": "^10.0.2"
   },
   "devDependencies": {
-    "@actions/core": "^1.2.2",
+    "@actions/core": "^1.2.6",
     "dotenv": "^8.2.0",
     "eslint": "^6.8.0",
     "fs": "0.0.1-security",
