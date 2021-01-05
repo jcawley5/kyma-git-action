@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "license": "Unlicense",
   "dependencies": {
-    "axios": "^0.18.1"
+    "axios": "^0.21.1"
   },
   "buildParameters": {
     "function_size": "XS",
